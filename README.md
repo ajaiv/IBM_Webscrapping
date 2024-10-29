@@ -3,7 +3,7 @@ Course 5
 
 
 FInal Assignment - 
-https://github.com/ajaiv/IBM_Webscrapping/blob/main/_IBM_Assignment.py
+https://github.com/ajaiv/IBM_Webscrapping/blob/main/Final%20Assignment1.ipynb
 
 
 The course 5 - Hand on Lab content 
